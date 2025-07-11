@@ -8,4 +8,5 @@ dependencies = [
     "datasets>=4.0.0",
     "huggingface-hub>=0.33.2",
     "ipykernel>=6.29.5",
+    "jsonlines>=4.0.0",
 ]
