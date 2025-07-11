@@ -1,0 +1,3 @@
+[submodule "datasets/3-common-claims/common_claim"]
+	path = datasets/3-common-claims/common_claim
+	url = https://github.com/thestephencasper/common_claim.git
